@@ -1,4 +1,4 @@
-ID,title,status
-1,Build CAP Project,DONE
-2,Learn Git Merge,IN PROGRESS
-3,Deploy to BTP,PENDING
+ID,title,status,priority
+1,Build CAP Project,DONE,HIGH
+2,Learn Git Merge,IN PROGRESS,HIGH
+3,Deploy to BTP,PENDING,MEDIUM
